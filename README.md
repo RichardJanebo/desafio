@@ -38,7 +38,7 @@ Este comando criará um container do PostgreSQL acessível na porta **5432**, co
 Abra um terminal e execute:
 
 ```bash
-git clone https://github.com/SEU-REPOSITORIO.git
+git clone https://github.com/RichardJanebo/desafio.git   
 ```
 
 Depois, entre na pasta do projeto:
